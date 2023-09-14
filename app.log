@@ -1,0 +1,184 @@
+2023-09-14T19:25:16.646Z [info]: User added [object Object] to the grocery list
+2023-09-14T19:26:27.956Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:19:30.219Z [info]: User requested to see the grocery list
+2023-09-14T20:19:33.371Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:19:35.595Z [info]: User requested to see the grocery list
+2023-09-14T20:19:40.940Z [info]: User requested to see the grocery list
+2023-09-14T20:22:52.819Z [info]: User requested to see the grocery list
+2023-09-14T20:22:58.451Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:23:16.570Z [info]: User requested to see the grocery list
+2023-09-14T20:23:32.104Z [info]: User updated {"name":"Apple","quantity":"1","price":"2","purchased":"true"} to {"name":"Apple","quantity":"1","price":"2","purchased":"true"}
+2023-09-14T20:25:39.718Z [info]: User requested to see the grocery list
+2023-09-14T20:25:45.516Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:25:54.226Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to {"name":"Apple","quantity":"1","price":"2","purchased":"true"}
+2023-09-14T20:27:55.954Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T20:28:02.476Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:28:21.104Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T20:28:34.345Z [info]: User requested to see the grocery list
+2023-09-14T20:31:21.937Z [info]: User requested to see the grocery list
+2023-09-14T20:31:23.854Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:31:25.531Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T20:31:28.110Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T20:34:17.062Z [info]: User requested to see the grocery list
+2023-09-14T20:34:18.614Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:34:20.199Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T20:34:21.835Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T20:34:31.045Z [info]: User requested to see the grocery list
+2023-09-14T20:36:37.851Z [info]: User requested to see the grocery list
+2023-09-14T20:36:39.870Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:36:41.462Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T20:36:49.087Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple"}
+2023-09-14T20:38:05.247Z [info]: User requested to see the grocery list
+2023-09-14T20:38:06.873Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:38:08.407Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T20:38:10.139Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple"}
+2023-09-14T20:38:41.290Z [info]: User requested to see the grocery list
+2023-09-14T20:44:50.592Z [info]: User requested to see the grocery list
+2023-09-14T20:44:52.676Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:44:54.502Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T20:44:57.975Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple"}
+2023-09-14T20:44:57.975Z [error]: No changes listed for Apple
+2023-09-14T20:45:24.208Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T20:45:32.918Z [info]: User requested to see the grocery list
+2023-09-14T20:50:29.657Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:50:32.057Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T20:55:57.842Z [info]: User requested to see the grocery list
+2023-09-14T20:57:10.761Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T20:57:19.960Z [info]: User requested to see the grocery list
+2023-09-14T20:57:25.869Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:57:30.545Z [info]: User requested to see the grocery list
+2023-09-14T20:57:51.764Z [info]: User requested to see the grocery list
+2023-09-14T20:57:57.808Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T20:58:04.173Z [info]: User requested to see the grocery list
+2023-09-14T20:58:07.841Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T20:58:11.780Z [info]: User requested to see the grocery list
+2023-09-14T21:03:49.607Z [info]: User requested to see the grocery list
+2023-09-14T21:03:52.158Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:03:58.185Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T21:04:03.135Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T21:04:04.664Z [info]: User requested to see the grocery list
+2023-09-14T21:04:27.424Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:04:29.300Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T21:04:30.966Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T21:04:33.166Z [info]: User requested to see the grocery list
+2023-09-14T21:07:00.837Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:07:02.501Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T21:07:04.573Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T21:07:12.418Z [info]: User requested to see the grocery list
+2023-09-14T21:07:44.634Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:07:48.076Z [info]: User requested to see the grocery list
+2023-09-14T21:07:54.666Z [info]: User requested to see the grocery list
+2023-09-14T21:09:44.235Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:09:46.440Z [info]: User requested to see the grocery list
+2023-09-14T21:09:49.075Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T21:09:54.239Z [info]: User requested to see the grocery list
+2023-09-14T21:10:29.274Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:10:31.181Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T21:10:32.813Z [info]: User requested to see the grocery list
+2023-09-14T21:11:31.837Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:11:33.311Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T21:11:36.003Z [info]: User requested to see the grocery list
+2023-09-14T21:11:37.905Z [info]: Apple has been removed
+2023-09-14T21:11:40.004Z [info]: User requested to see the grocery list
+2023-09-14T21:12:58.895Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:13:00.935Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T21:13:02.873Z [info]: User requested to see the grocery list
+2023-09-14T21:13:04.572Z [info]: Apple has been removed from the grocery list
+2023-09-14T21:13:06.409Z [info]: User requested to see the grocery list
+2023-09-14T21:13:11.408Z [info]: User requested to see the grocery list
+2023-09-14T21:23:24.384Z [error]: User attemped to add an item without a name
+2023-09-14T21:23:30.193Z [info]: User requested to see the grocery list
+2023-09-14T21:23:34.532Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:23:38.439Z [error]: User attemped to add an item without a name
+2023-09-14T21:32:41.740Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:32:44.174Z [info]: User requested to see the grocery list
+2023-09-14T21:33:16.514Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:33:19.215Z [info]: User requested to see the grocery list
+2023-09-14T21:33:21.950Z [error]: User attemped to add a duplicate item
+2023-09-14T21:34:08.092Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:34:09.415Z [error]: User attemped to add a duplicate item
+2023-09-14T21:34:53.250Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:34:53.998Z [error]: User attemped to add a duplicate item
+2023-09-14T21:38:26.161Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:38:29.928Z [error]: User attemped to add an item without a name
+2023-09-14T21:38:49.369Z [info]: User requested to see the grocery list
+2023-09-14T21:38:54.088Z [error]: User attemped to add a duplicate item
+2023-09-14T21:39:10.416Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T21:39:13.991Z [info]: User requested to see the grocery list
+2023-09-14T21:39:16.848Z [info]: Apple has been removed from the grocery list
+2023-09-14T21:40:14.670Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:40:16.990Z [info]: Apple has been removed from the grocery list
+2023-09-14T21:40:19.512Z [info]: User requested to see the grocery list
+2023-09-14T21:45:32.573Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:45:35.835Z [error]: Item does not have a name
+2023-09-14T21:46:27.824Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:46:30.175Z [error]: Item does not have a name
+2023-09-14T21:48:17.319Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:48:19.580Z [error]: Item does not have a name
+2023-09-14T21:48:25.706Z [info]: User requested to see the grocery list
+2023-09-14T21:48:27.819Z [error]: User attemped to add a duplicate item
+2023-09-14T21:48:32.643Z [info]: Apple has been removed from the grocery list
+2023-09-14T21:49:12.019Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:49:12.897Z [error]: User attemped to add a duplicate item
+2023-09-14T21:49:48.842Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:50:25.607Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:51:43.091Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:51:45.663Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T21:51:50.283Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T21:52:01.281Z [info]: User requested to see the grocery list
+2023-09-14T21:52:06.093Z [info]: Apple has been removed from the grocery list
+2023-09-14T21:57:45.660Z [info]: User requested to see the grocery list
+2023-09-14T21:57:47.641Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T21:57:49.402Z [error]: Item does not have a name
+2023-09-14T21:57:56.430Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T21:58:07.241Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T21:58:11.202Z [error]: User attemped to update an item (Pear) not grocery list
+2023-09-14T22:03:30.715Z [info]: User requested to see the grocery list
+2023-09-14T22:03:34.596Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T22:03:40.779Z [error]: User tried to add an item without a name
+2023-09-14T22:03:49.292Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T22:04:04.466Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T22:04:09.695Z [error]: User attemped to update an item (Pear) not grocery list
+2023-09-14T22:04:18.191Z [error]: Item does not have a name
+2023-09-14T22:05:24.468Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T22:05:26.173Z [error]: User tried to add an item without a name
+2023-09-14T22:05:30.278Z [error]: User attemped to update an item (Pear) not grocery list
+2023-09-14T22:05:33.971Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T22:05:37.585Z [error]: Item does not have a name
+2023-09-14T22:06:49.974Z [info]: User requested to see the grocery list
+2023-09-14T22:06:52.150Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T22:06:53.902Z [error]: User tried to add an item without a name
+2023-09-14T22:06:55.981Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T22:06:59.701Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T22:07:02.506Z [error]: User attemped to update an item (Pear) not grocery list
+2023-09-14T22:07:06.339Z [error]: Item does not have a name
+2023-09-14T22:08:14.008Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T22:08:15.438Z [error]: User tried to add an item without a name
+2023-09-14T22:08:16.637Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T22:08:18.303Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T22:08:19.938Z [error]: User attemped to update an item (Pear) not grocery list
+2023-09-14T22:08:24.211Z [error]: Item does not have a name
+2023-09-14T22:09:45.576Z [info]: User requested to see the grocery list
+2023-09-14T22:09:49.697Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T22:09:51.426Z [error]: User tried to add an item without a name
+2023-09-14T22:09:52.947Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T22:09:54.456Z [error]: User attemped to add a duplicate item (Banana)
+2023-09-14T22:09:59.367Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T22:10:01.380Z [error]: User attemped to update an item (Pear) not grocery list
+2023-09-14T22:10:04.328Z [error]: Item does not have a name
+2023-09-14T22:10:08.708Z [info]: Apple has been removed from the grocery list
+2023-09-14T22:10:12.011Z [error]: Item does not have a name
+2023-09-14T22:10:43.559Z [info]: User requested to see the grocery list
+2023-09-14T22:10:44.817Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-14T22:10:46.206Z [error]: User tried to add an item without a name
+2023-09-14T22:10:47.794Z [info]: User added {"name":"Banana","quantity":"5","price":"0.10","purchased":"false"} to the grocery list
+2023-09-14T22:10:48.889Z [error]: User attemped to add a duplicate item (Banana)
+2023-09-14T22:10:51.050Z [info]: User updated {"name":"Apple","quantity":"2","price":"1","purchased":"false"} with the following changes {"name":"Apple","purchased":"true"}
+2023-09-14T22:10:53.525Z [error]: User attemped to update an item (Pear) not grocery list
+2023-09-14T22:10:55.751Z [error]: Item does not have a name
+2023-09-14T22:10:57.867Z [info]: Apple has been removed from the grocery list
+2023-09-14T22:10:59.617Z [error]: Item does not have a name
+2023-09-14T22:11:01.426Z [error]: User attemped to delete an item (Boat) not grocery list
+2023-09-14T22:11:05.946Z [info]: User requested to see the grocery list
+2023-09-14T22:12:44.831Z [info]: User requested to see the grocery list
+2023-09-14T22:12:47.132Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
