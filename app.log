@@ -134,3 +134,20 @@
 2023-09-17T22:08:26.052Z [info]: Test1 has been removed from the grocery list
 2023-09-17T22:09:06.093Z [info]: Test1 has been removed from the grocery list
 2023-09-17T22:10:19.606Z [info]: Test1 has been removed from the grocery list
+2023-09-17T22:14:39.325Z [info]: Test1 has been removed from the grocery list
+2023-09-17T22:15:06.966Z [info]: Test1 has been removed from the grocery list
+2023-09-17T22:15:57.962Z [info]: Test1 has been removed from the grocery list
+2023-09-17T22:16:33.732Z [info]: Test1 has been removed from the grocery list
+2023-09-17T22:17:35.584Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-17T22:17:53.464Z [info]: User updated {"name":"Apple","quantity":"3","price":"2","purchased":"true"} on the grocery list
+2023-09-17T22:17:56.557Z [info]: User requested to see the grocery list
+2023-09-17T22:18:04.886Z [info]: User updated {"name":"Apple","quantity":"3","price":"2","purchased":"true"} on the grocery list
+2023-09-17T22:18:09.813Z [info]: User requested to see the grocery list
+2023-09-17T22:18:46.143Z [info]: User updated {"name":"Apple","quantity":"3","price":"2","purchased":"true"} on the grocery list
+2023-09-17T22:18:49.460Z [info]: User requested to see the grocery list
+2023-09-17T22:19:38.054Z [info]: User requested to see the grocery list
+2023-09-17T22:19:40.095Z [info]: User added {"name":"Apple","quantity":"2","price":"1","purchased":"false"} to the grocery list
+2023-09-17T22:19:42.798Z [info]: User requested to see the grocery list
+2023-09-17T22:19:47.230Z [info]: User updated {"name":"Apple","quantity":"3","price":"2","purchased":"true"} on the grocery list
+2023-09-17T22:19:49.692Z [info]: User requested to see the grocery list
+2023-09-17T22:20:21.798Z [info]: Test1 has been removed from the grocery list

@@ -2,10 +2,10 @@ const app = require('../src/app');
 const mock = jest.fn();
 
 describe("GET -- view grocery list", () => {
-    test('Grocery list starts as an empty array', async () => {
+    test('Grocery list starts as an empty array', () => {
         const result = app.getGroceryList();
         
-        await expect(result).toHaveLength(0);
+        expect(result).toHaveLength(0);
     })   
 });
 
@@ -70,7 +70,7 @@ describe("setItemStatus", () => {
 
 describe("PUT -- update item on grocery list", () => {
     test('Successfully updating an item to the grocery list should return true', () => {
-        const item = {name: "Test1", purchased: true};
+        const item = {name: "Test1", price: 2.00, quantity: 2, purchased: true};
         const itemStatus = {onList: true};
         const itemUpdated = app.updateItem(item, itemStatus);
     
@@ -78,7 +78,7 @@ describe("PUT -- update item on grocery list", () => {
     })
 
     test('GET -- Grocery list contains updated item', () => {
-        const groceryList = [{name: "Test1", price: 1.00, quantity: 1, purchased: true}];
+        const groceryList = [{name: "Test1", price: 2.00, quantity: 2, purchased: true}];
         const result = app.getGroceryList();
     
         expect(result).toEqual(groceryList);   

@@ -70,9 +70,11 @@ function updateItem(itemUpdate, itemStatus){
             if(item.name === itemUpdate.name){
                 if("price" in itemUpdate){
                     item.price = itemUpdate.price;
-                }else if("quantity" in itemUpdate){
+                }
+                if("quantity" in itemUpdate){
                     item.quantity = itemUpdate.quantity;
-                }else if("purchased" in itemUpdate){
+                }
+                if("purchased" in itemUpdate){
                     item.purchased = itemUpdate.purchased;
                 }    
                 return true;   
